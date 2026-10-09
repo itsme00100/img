@@ -1,0 +1,15 @@
+# CocoPalm grape label: UV textured flat 3D plate
+# Image-derived model; dimensions normalized to 1 x 1 model units.
+mtllib cocopam_grape_label.mtl
+o CocoPalmGrapeLabel
+v -0.5 -0.5 0.0
+v  0.5 -0.5 0.0
+v  0.5  0.5 0.0
+v -0.5  0.5 0.0
+vt 0.0 0.0
+vt 1.0 0.0
+vt 1.0 1.0
+vt 0.0 1.0
+vn 0.0 0.0 1.0
+usemtl CocoPamTexture
+f 1/1/1 2/2/1 3/3/1 4/4/1
